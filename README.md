@@ -1,6 +1,5 @@
-# fa
-## [English](http://appdemocracy.github.io/) [Farsi](http://appdemocracy.github.io/fa/) [Deutsch](http://appdemocracy.github.io/en/) 
-## [references](http://appdemocracy.github.io/Reference/)
+## [English](http://appdemocracy.github.io/en/) [Farsi](http://appdemocracy.github.io/fa/) [Deutsch](https://appdemocracy.github.io/de/) 
+## [references](https://appdemocracy.github.io/reference/)
 
 
 درمورد سؤالات زیر تامل فرمایید متن زیر سوال،صرفا جنبه ی اطلاعاتی دارد.
